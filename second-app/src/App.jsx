@@ -12,7 +12,7 @@ function App() {
       password: password,
     });
 
-    if (username === "admin" && password === "password") {
+    if (username === "rohit" && password === "1234") {
       alert("Login Successful!!");
     } else {
       alert("Login Failed!!");
@@ -20,14 +20,26 @@ function App() {
     event.target.reset();
   }
   return (
-    <div className="login-box">
-      <h2>Login</h2>
-      <form onSubmit={handleLogin}>
-        <input type="text" placeholder="Enter Username" id="username" required />
-        <input type="password" placeholder="Enter Password" id="password" required />
-        <button type="submit">Login</button>
-      </form>
-    </div>
+    <>
+      <div className="login-box">
+        <h2>Login</h2>
+        <form onSubmit={handleLogin}>
+          <input
+            type="text"
+            placeholder="Enter Username"
+            id="username"
+            required
+          />
+          <input
+            type="password"
+            placeholder="Enter Password"
+            id="password"
+            required
+          />
+          <button type="submit">Login</button>
+        </form>
+      </div>
+    </>
   );
 }
 
