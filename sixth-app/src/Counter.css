@@ -1,0 +1,29 @@
+.counter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.btn {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  border: none;
+  background: #4CAF50;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s;
+}
+
+.btn:hover {
+  background: #45a049;
+}
+
+.number {
+  font-size: 20px;
+  min-width: 30px;
+  text-align: center;
+  display: inline-block;
+}
