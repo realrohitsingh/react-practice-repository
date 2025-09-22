@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 50000,
+      "image": "https://imgs.search.brave.com/CfSuFM3RiJWA6R_00Llmr3461A9jyqAABEMd8PbS_Co/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0Lzlm/b0pZa0phWWtWQno4/d1RUcWNLRU0uanBn",
+      "ratings": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Phone",
+      "price": 25000,
+      "image": "https://imgs.search.brave.com/eDtCz5LG1u7pqpLLm-0wvbmuUtDtTRHWJQ-c4ovLX7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wbHVz/LnVuc3BsYXNoLmNv/bS9wcmVtaXVtX3Bo/b3RvLTE2ODA5ODU1/NTEwMDktMDUxMDdj/ZDI3NTJjP2ZtPWpw/ZyZxPTYwJnc9MzAw/MCZpeGxpYj1yYi00/LjEuMCZpeGlkPU0z/d3hNakEzZkRCOE1I/eHpaV0Z5WTJoOE1Y/eDhjR2h2Ym1WOFpX/NThNSHg4TUh4OGZE/QT0",
+      "ratings": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 2000,
+      "image": "https://imgs.search.brave.com/C-Ae_3FaGGfk0GUDFtUqhsIlnNq6T_r89wpYnvwOrZE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA0LzA4LzI1LzUz/LzM2MF9GXzQwODI1/NTMwNV94c3ZWRlFY/WlhxRHVPSGJiSVBs/V2t3SlAzMEY5Tzha/Qy5qcGc",
+      "ratings": 4.0
+    },
+    {
+      "id": 4,
+      "name": "Keyboard",
+      "price": 1500,
+      "image": "https://imgs.search.brave.com/iQdOg60H48KimIN7E78U0VwG6PLYjcdYglx69Wx1rUA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJob3Bl/LmNvbS9jZG4va2V5/Ym9hcmQva2V5Ym9h/cmQuanBn",
+      "ratings": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Mouse",
+      "price": 800,
+      "image": "https://imgs.search.brave.com/kOUSgvaGvOxZGn7eqowz3l_ii03Me6yQTrbKYChDx-c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE1L0FfY29tcHV0/ZXJfbW91c2UsX2Js/YWNrX2FuZF93aGl0/ZSxfcmV0b3VjaGVk/LF9rZXlib2FyZF92/aXNpYmxlX2luX2Jh/Y2tncm91bmQuanBn",
+      "ratings": 3.9
+    }
+  ]
+}
