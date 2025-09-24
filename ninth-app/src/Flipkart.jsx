@@ -9,7 +9,7 @@ function Flipkart() {
         async function fetchData() {
             let res = await fetch("http://localhost:1000/products");
             let data = await res.json();
-            setItems(data);
+            setItems(data.items);
         }
         fetchData();
     }, []);
